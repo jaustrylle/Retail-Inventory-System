@@ -64,6 +64,7 @@ Open http://localhost/Retail-Inventory-System in your browser.
 //Project Structure
 
 Retail-Inventory-System/
+
 ├── assets/
 ├── config/
 ├── pages/
