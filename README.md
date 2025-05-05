@@ -59,6 +59,9 @@ Open http://localhost/Retail-Inventory-System in your browser.
 
 
 //Screenshots
+![image](https://github.com/user-attachments/assets/f72f46fc-d3bf-4a74-9091-1f979605961f)
+
+![image](https://github.com/user-attachments/assets/1cd03d63-a21c-4401-826d-cee48aa47237)
 
 
 //Project Structure
